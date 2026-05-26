@@ -1,61 +1,85 @@
 # Parth Sharma
 
-### LLM Security • AI Systems • Applied AI Engineering
+### 🛡️ LLM Security • 🤖 AI Systems • ⚙️ AI Infrastructure
 
-Currently building AI systems focused on LLM security, AI middleware, and applied engineering.
+Building adaptive AI systems focused on LLM security, adversarial defense, AI middleware, and applied machine learning engineering.
+
 ---
 
-## Current Focus
+## 🚀 Current Focus
 
 ### Adaptive LLM Firewall
-
-Adaptive AI security middleware for detecting prompt injection attacks, analyzing adversarial behavior, and monitoring risk across LLM-based systems.
-
-## Technical Areas
-
-- LLM Security
-- LLM Engineering
-- AI Middleware
-- Adversarial ML
-- Backend Systems
-- AI Infrastructure
-
+Adaptive AI security middleware for:
+- Prompt Injection Detection
+- Jailbreak Mitigation
+- Adversarial Behavior Analysis
+- Semantic Risk Monitoring
+- AI Threat Detection
 
 ---
 
-## Tech Stack
+## 🧠 Technical Areas
 
-### Languages
+- 🛡️ LLM Security
+- 🤖 Agentic AI Systems
+- ⚙️ AI Middleware Engineering
+- 🔍 Adversarial Machine Learning
+- 🧠 Transformer Architectures
+- 🌐 Backend & API Systems
+- 📡 AI Infrastructure
+
+---
+
+## ⚒️ Tech Stack
+
+### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
 </p>
 
-### AI / ML
+### 🧠 AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
 
 - Transformers
 - Sentence Transformers
 - Embeddings
 - Vector Search
-- OpenCV
 - Scikit-learn
+- OpenCV
 
-
----
-
-## Featured Projects
-
-### Adaptive LLM Firewall
-Adaptive AI security middleware for prompt injection and jailbreak mitigation.
-
-### Physiological Signal Analysis System
-Computer vision-based physiological signal processing system.
+### ⚙️ Backend & Systems
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+</p>
 
 ---
 
-## Philosophy
+## 📌 Featured Projects
+
+### 🛡️ Adaptive LLM Firewall
+AI security middleware for prompt injection defense, jailbreak mitigation, and behavioral threat analysis across LLM systems.
+
+---
+
+### 👁️ Physiological Signal Analysis System
+Computer vision-based physiological signal estimation and real-time analysis system using AI and signal processing techniques.
+
+---
+
+## 📚 Currently Exploring
+
+- Advanced Transformer Architectures
+- AI Security Engineering
+- Agentic Workflows
+- Vector Databases
+- Multi-Agent Systems
+- LLM Infrastructure
+
+---
+
+## 🔬 Engineering Approach
 
 ```text
-Build → Break → Improve → Repeat
+Design Systems → Analyze Failures → Optimize Architectures → Repeat
