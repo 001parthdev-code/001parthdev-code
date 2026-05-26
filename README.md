@@ -1,33 +1,25 @@
-# Parth
+# Parth Sharma
 
 ### LLM Security • AI Systems • Applied AI Engineering
 
-Currently building adaptive security systems for LLM applications with a focus on prompt injection defense, adversarial behavior analysis, and AI middleware infrastructure.
-
+Currently building AI systems focused on LLM security, AI middleware, and applied engineering.
 ---
 
 ## Current Focus
 
 ### Adaptive LLM Firewall
 
-AI middleware system designed to:
-- detect prompt injection attacks
-- analyze adversarial intent
-- sanitize risky prompts
-- score interaction risk
-- monitor suspicious outputs
-- adapt against evolving jailbreak techniques
-
----
+Adaptive AI security middleware for detecting prompt injection attacks, analyzing adversarial behavior, and monitoring risk across LLM-based systems.
 
 ## Technical Areas
 
 - LLM Security
+- LLM Engineering
 - AI Middleware
 - Adversarial ML
 - Backend Systems
 - AI Infrastructure
-- NLP Systems
+
 
 ---
 
@@ -35,7 +27,7 @@ AI middleware system designed to:
 
 ### Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
 ### AI / ML
@@ -45,7 +37,6 @@ AI middleware system designed to:
 
 - Transformers
 - Sentence Transformers
-- NLP
 - Embeddings
 - Vector Search
 - OpenCV
@@ -61,9 +52,6 @@ Adaptive AI security middleware for prompt injection and jailbreak mitigation.
 
 ### Physiological Signal Analysis System
 Computer vision-based physiological signal processing system.
-
-### Face Recognition System
-Computer vision-based identity recognition system.
 
 ---
 
