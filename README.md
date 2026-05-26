@@ -40,7 +40,7 @@ AI middleware system designed to:
 
 ### AI / ML
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
 - Transformers
@@ -51,15 +51,6 @@ AI middleware system designed to:
 - OpenCV
 - Scikit-learn
 
-### Backend & Infrastructure
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,docker,linux,git" />
-</p>
-
-- FastAPI
-- APIs
-- Backend Systems
-- AI Middleware Infrastructure
 
 ---
 
