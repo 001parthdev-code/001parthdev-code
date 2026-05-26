@@ -21,6 +21,7 @@ Adaptive AI security middleware for:
 ## 🧠 Technical Areas
 
 - 🛡️ LLM Security
+- ⚙️ LLM Engineering
 - 🤖 Agentic AI Systems
 - ⚙️ AI Middleware Engineering
 - 🔍 Adversarial Machine Learning
@@ -34,7 +35,7 @@ Adaptive AI security middleware for:
 
 ### 💻 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
 ### 🧠 AI / ML
@@ -51,7 +52,7 @@ Adaptive AI security middleware for:
 
 ### ⚙️ Backend & Systems
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+  <img src="https://skillicons.dev/icons?i=fastapi" />
 </p>
 
 ---
