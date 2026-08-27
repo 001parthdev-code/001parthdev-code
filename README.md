@@ -43,9 +43,9 @@ I enjoy building production-quality systems that emphasize performance, reliabil
 
 ## GitHub Stats
 
-<p>
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=001parthdev-code&show_icons=true&hide_border=true&rank_icon=github"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=001parthdev-code&layout=compact&hide_border=true"/>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=001parthdev-code&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=001parthdev-code&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
