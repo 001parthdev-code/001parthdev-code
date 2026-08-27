@@ -1,54 +1,15 @@
 # Parth Sharma
 
-**AI Systems • AI Security • Infrastructure**
+# AI Systems • AI Security • Infrastructure
 
-Building secure AI infrastructure, runtime systems, and large-scale AI applications.
+Building secure AI infrastructure and runtime systems.
 
----
+Current Projects
+• SWAR
+• AI Runtime Security
+• CLRS-LLM
 
-## About
 
-I build AI systems from the engineering layer up—models, retrieval, agents, infrastructure, and the systems around them.
-
-My interests are centered around:
-
-- AI Runtime Security
-- LLM Infrastructure
-- Distributed Systems
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- Machine Learning Systems
-- Systems Programming
-- Cloud Infrastructure
-
-I enjoy building production-quality systems that emphasize performance, reliability, observability, and security.
-
----
-
-## Current Projects
-
-- **SWAR** — AI system for structured reasoning and workflow orchestration
-- **AI Runtime Security** — Runtime security framework for LLM applications
-- **CLRS-LLM** — Learning algorithms through LLM-assisted implementations
-
----
-
-## Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,rust,go,cpp,linux,docker,kubernetes,git,github,pytorch,fastapi,postgres,redis,bash,vscode" />
-</p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=001parthdev-code&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=001parthdev-code&layout=compact&theme=transparent&hide_border=true" />
-</p>
-
----
 
 ## Connect
 
