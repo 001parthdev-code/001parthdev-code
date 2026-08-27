@@ -1,16 +1,61 @@
 # Parth Sharma
 
-AI Systems • AI Security • Infrastructure
+**AI Systems • AI Security • Infrastructure**
 
-Building secure AI systems, runtime security, and infrastructure.
+Building secure AI infrastructure, runtime systems, and large-scale AI applications.
 
-## Projects
+---
 
-- **AI Runtime Security** — Runtime protection and evaluation for LLM applications
-- **SWAR** — Experimental AI operating system and agent runtime
-- **CLRS-LLM** — Retrieval system for technical corpora
+## About
 
-## Links
+I build AI systems from the engineering layer up—models, retrieval, agents, infrastructure, and the systems around them.
 
-- Portfolio — https://001parthdev-code.github.io
-- LinkedIn — https://www.linkedin.com/in/parth-sharma-21b6a3376/
+My interests are centered around:
+
+- AI Runtime Security
+- LLM Infrastructure
+- Distributed Systems
+- Agentic AI
+- Retrieval-Augmented Generation (RAG)
+- Machine Learning Systems
+- Systems Programming
+- Cloud Infrastructure
+
+I enjoy building production-quality systems that emphasize performance, reliability, observability, and security.
+
+---
+
+## Current Projects
+
+- **SWAR** — AI system for structured reasoning and workflow orchestration
+- **AI Runtime Security** — Runtime security framework for LLM applications
+- **CLRS-LLM** — Learning algorithms through LLM-assisted implementations
+
+---
+
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,rust,go,cpp,linux,docker,kubernetes,git,github,pytorch,fastapi,postgres,redis,bash,vscode" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=001parthdev-code&show_icons=true&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=001parthdev-code&layout=compact&hide_border=true"/>
+</p>
+
+---
+
+## Connect
+
+- Portfolio: https://your-domain.dev
+- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/001parthdev-code
+
+---
+
+> Building secure, scalable AI systems one project at a time.
