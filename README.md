@@ -13,7 +13,7 @@ Current Projects
 
 ## Connect
 
-- Portfolio: https://your-domain.dev
+- Portfolio: [https://your-domain.dev](https://001parthdev-code.github.io/)
 - LinkedIn: https://linkedin.com/in/your-profile
 - GitHub: https://github.com/001parthdev-code
 
