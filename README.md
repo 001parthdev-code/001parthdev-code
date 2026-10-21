@@ -5,9 +5,9 @@
 Building secure AI infrastructure and runtime systems.
 
 Current Projects
-• SWAR
-• AI Runtime Security
-• CLRS-LLM
+• SSI
+• Secure SWE Agent
+
 
 
 
